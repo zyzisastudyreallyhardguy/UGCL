@@ -1,0 +1,6 @@
+Namespace(data='cora', runs=5, epoch=250, patience=50, lr=0.0002, l2_coef=0.0, n=9, hidden=4196, sample_size=1500, sparse=False, cuda=0)
+84.7000015258789
+0.28284433091720323
+Namespace(data='cora', runs=5, epoch=250, patience=50, lr=0.0002, l2_coef=0.0, n=9, hidden=4196, sample_size=1500, sparse=False, cuda=0)
+84.7000015258789
+0.28284433091720323

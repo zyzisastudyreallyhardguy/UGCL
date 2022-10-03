@@ -1,0 +1,3 @@
+Namespace(data='citeseer', runs=5, epoch=150, patience=50, lr=5e-05, l2_coef=0.0, n=2, hidden=8192, sample_size=3000, sparse=False, cuda=0)
+74.00000305175782
+0.282841633521471
